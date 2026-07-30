@@ -1,18 +1,9 @@
 <!-- ===================== HERO BANNER ===================== -->
-<table width="100%">
-<tr>
-<td width="55%" align="left" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=260&section=header&text=Keith%20Ng&fontSize=46&fontColor=ffffff&fontAlignY=52" width="100%"/>
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/lUax-CJ3QVoAAAAC/anime-aestethic.gif" width="300" alt="Keith Ng"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=230&section=header&text=Keith%20Ng&fontSize=46&fontColor=ffffff&fontAlignY=52" width="470"/>
+&nbsp;
+<img src="https://media.tenor.com/lUax-CJ3QVoAAAAC/anime-aestethic.gif" width="240" alt="Keith Ng"/>
+</div>
 
 <h3 align="center">Senior Agentic AI Engineer &nbsp;|&nbsp; Cloud Architect &nbsp;|&nbsp; IaC &amp; Platform Engineering</h3>
 
@@ -32,10 +23,11 @@
 
 </div>
 
-<table width="100%"><tr>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-</tr></table>
+<div align="center">
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+</div>
 
 ```typescript
 const keith = {
@@ -63,10 +55,11 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🏛️ **Architecture Governance Agents** — automated enforcement of standards, patterns, and compliance
 - ⚙️ **LLM Optimization & AI-Assisted Development** — prompt/context engineering, evaluation, cost/latency tuning
 
-<table width="100%"><tr>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-</tr></table>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+&nbsp;
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+</div>
 
 - ☁️ Design and build cloud-native applications on **AWS** and **Azure**
 - 🧱 Provision everything with **Infrastructure as Code** — Terraform, AWS CDK, Pulumi & CloudFormation
@@ -86,10 +79,11 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🧪 Drive **automated testing & QA** — unit, integration & E2E
 - 🔐 Engineer **identity & access** — SSO, RBAC, 2FA & OAuth2
 
-<table width="100%"><tr>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-</tr></table>
+<div align="center">
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+</div>
 
 **🤖 AI &amp; Agentic Engineering**
 
@@ -176,10 +170,11 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<table width="100%"><tr>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-</tr></table>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+&nbsp;
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+</div>
 
 <table>
 <tr>
@@ -229,10 +224,11 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 </tr>
 </table>
 
-<table width="100%"><tr>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-</tr></table>
+<div align="center">
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+</div>
 
 <div align="center">
 
@@ -293,10 +289,11 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
   <img src="https://img.shields.io/badge/Enterprise%20Modernization-5BC0BE?style=flat-square" />
 </p>
 
-<table width="100%"><tr>
-<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
-<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
-</tr></table>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="720"/>
+&nbsp;
+<img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="90" alt=""/>
+</div>
 
 <div align="center">
 
