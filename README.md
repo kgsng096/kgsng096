@@ -1,148 +1,21 @@
-# Hi 👋 I'm Keith Ng
+# 💫 About Me:
+# Hi 👋 I'm Keith Ng<br><br>### Full Stack Engineer | Cloud Architect | Agentic AI Builder<br><br>I build scalable cloud-native systems, modernize enterprise platforms, and design AI-powered engineering solutions.<br><br>With experience across AWS, Azure, enterprise banking, fintech, and large-scale SaaS platforms, I focus on delivering secure, high-performance solutions that combine strong software engineering principles with modern cloud and AI capabilities.<br><br>---<br><br>## 🚀 What I Do<br><br>- ☁️ Design and build cloud-native applications on AWS and Azure<br>- 🏗️ Architect scalable microservices and event-driven systems<br>- 🤖 Develop Agentic AI engineering platforms and custom AI agents<br>- 🔒 Implement DevSecOps automation and security-first delivery pipelines<br>- ⚡ Modernize legacy enterprise applications using modern technologies<br>- 📊 Design highly available distributed systems and data platforms<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Backend<br>- Node.js<br>- NestJS<br>- Express.js<br>- Spring Boot<br>- Quarkus<br>- Fastify<br>- TypeScript<br>- Java<br>- SQL / PostgreSQL / MongoDB<br><br>### Frontend<br>- React<br>- Next.js<br>- Angular<br>- Redux<br>- RxJS<br>- Tailwind CSS<br>- Storybook<br><br>### Cloud & Infrastructure<br>- AWS<br>- Azure<br>- AWS Lambda<br>- API Gateway<br>- Aurora Serverless<br>- EventBridge<br>- SQS<br>- AKS<br>- Azure Functions<br>- Docker<br>- Kubernetes<br><br>### DevOps & Security<br>- GitHub Actions<br>- GitLab CI<br>- Azure DevOps<br>- AWS CodePipeline<br>- SonarQube<br>- Trivy<br>- Grafana<br>- Prometheus<br>- OAuth2<br>- JWT<br>- SSO<br>- Azure AD<br>- AWS Cognito<br><br>### AI Engineering<br>- Agentic AI Architecture<br>- Multi-Agent Systems<br>- LLM Optimization<br>- AI-Assisted Development<br>- Security Remediation Automation<br>- Architecture Governance Agents<br><br>---<br><br>## 💼 Professional Highlights<br><br>### 🏦 Australian Finance Group<br>- Built a large-scale Core Banking integration platform on AWS<br>- Designed event-driven architectures using EventBridge and SQS<br>- Created a custom Agentic AI Engineering Platform consisting of 85+ specialized AI agents<br>- Developed autonomous AI-powered security remediation pipelines<br><br>### 🏦 EastWest Bank<br>- Led cloud-native modernization initiatives<br>- Designed REST wrappers for legacy SOAP integrations<br>- Automated DevSecOps workflows and vulnerability management<br>- Achieved 96% unit test coverage and zero critical SonarQube findings<br><br>### 🏢 Stratpoint Technologies<br>- Led engineering teams delivering enterprise procurement systems<br>- Built configurable workflow and approval engines<br>- Engineered secure RBAC and 2FA solutions<br>- Developed reusable frontend component libraries<br><br>### 📱 Asurion<br>- Built and maintained serverless AWS applications<br>- Modernized legacy systems using NestJS and React<br>- Implemented SSO integrations and cloud-native solutions<br>- Optimized application performance and scalability<br><br>---<br><br>## 🌱 Currently Exploring<br><br>- Advanced Agentic AI Systems<br>- AI-Driven Software Development Workflows<br>- Event-Driven Architectures<br>- Distributed Systems<br>- Platform Engineering<br>- Cloud Security Automation<br><br>---<br><br>## 🏆 Certifications<br><br>- AWS Certified Cloud Practitioner<br><br>---<br><br>## 💬 Ask Me About<br><br>- Cloud Architecture<br>- Full Stack Development<br>- AWS & Azure<br>- Agentic AI<br>- Software Architecture<br>- Event-Driven Systems<br>- DevSecOps<br>- Enterprise Modernization<br><br>---<br><br>## 📫 Connect With Me<br><br>- GitHub: https://github.com/kgsng096<br>- Portfolio: https://kgn-modern-portfolio.netlify.app<br><br>---<br><br>> "Build it simple. Scale it intelligently. Automate everything."
 
-### Full Stack Engineer | Cloud Architect | Agentic AI Builder
 
-I build scalable cloud-native systems, modernize enterprise platforms, and design AI-powered engineering solutions.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keith-geoffrey-ng-698b3820a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keithng.096@gmail.com) 
 
-With experience across AWS, Azure, enterprise banking, fintech, and large-scale SaaS platforms, I focus on delivering secure, high-performance solutions that combine strong software engineering principles with modern cloud and AI capabilities.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kgsng096&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kgsng096&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kgsng096&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-## 🚀 What I Do
-
-- ☁️ Design and build cloud-native applications on AWS and Azure
-- 🏗️ Architect scalable microservices and event-driven systems
-- 🤖 Develop Agentic AI engineering platforms and custom AI agents
-- 🔒 Implement DevSecOps automation and security-first delivery pipelines
-- ⚡ Modernize legacy enterprise applications using modern technologies
-- 📊 Design highly available distributed systems and data platforms
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kgsng096&icon=3&color=3)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Backend
-- Node.js
-- NestJS
-- Express.js
-- Spring Boot
-- Quarkus
-- Fastify
-- TypeScript
-- Java
-- SQL / PostgreSQL / MongoDB
-
-### Frontend
-- React
-- Next.js
-- Angular
-- Redux
-- RxJS
-- Tailwind CSS
-- Storybook
-
-### Cloud & Infrastructure
-- AWS
-- Azure
-- AWS Lambda
-- API Gateway
-- Aurora Serverless
-- EventBridge
-- SQS
-- AKS
-- Azure Functions
-- Docker
-- Kubernetes
-
-### DevOps & Security
-- GitHub Actions
-- GitLab CI
-- Azure DevOps
-- AWS CodePipeline
-- SonarQube
-- Trivy
-- Grafana
-- Prometheus
-- OAuth2
-- JWT
-- SSO
-- Azure AD
-- AWS Cognito
-
-### AI Engineering
-- Agentic AI Architecture
-- Multi-Agent Systems
-- LLM Optimization
-- AI-Assisted Development
-- Security Remediation Automation
-- Architecture Governance Agents
-
----
-
-## 💼 Professional Highlights
-
-### 🏦 Australian Finance Group
-- Built a large-scale Core Banking integration platform on AWS
-- Designed event-driven architectures using EventBridge and SQS
-- Created a custom Agentic AI Engineering Platform consisting of 85+ specialized AI agents
-- Developed autonomous AI-powered security remediation pipelines
-
-### 🏦 EastWest Bank
-- Led cloud-native modernization initiatives
-- Designed REST wrappers for legacy SOAP integrations
-- Automated DevSecOps workflows and vulnerability management
-- Achieved 96% unit test coverage and zero critical SonarQube findings
-
-### 🏢 Stratpoint Technologies
-- Led engineering teams delivering enterprise procurement systems
-- Built configurable workflow and approval engines
-- Engineered secure RBAC and 2FA solutions
-- Developed reusable frontend component libraries
-
-### 📱 Asurion
-- Built and maintained serverless AWS applications
-- Modernized legacy systems using NestJS and React
-- Implemented SSO integrations and cloud-native solutions
-- Optimized application performance and scalability
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced Agentic AI Systems
-- AI-Driven Software Development Workflows
-- Event-Driven Architectures
-- Distributed Systems
-- Platform Engineering
-- Cloud Security Automation
-
----
-
-## 🏆 Certifications
-
-- AWS Certified Cloud Practitioner
-
----
-
-## 💬 Ask Me About
-
-- Cloud Architecture
-- Full Stack Development
-- AWS & Azure
-- Agentic AI
-- Software Architecture
-- Event-Driven Systems
-- DevSecOps
-- Enterprise Modernization
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/kgsng096
-- Portfolio: https://kgn-modern-portfolio.netlify.app
-- Linkedin: https://www.linkedin.com/in/keith-geoffrey-ng-698b3820a/
-
----
-
-> "Build it simple. Scale it intelligently. Automate everything."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
