@@ -1,7 +1,18 @@
 <!-- ===================== HERO BANNER ===================== -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keith%20Ng&fontSize=52&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
+<table width="100%">
+<tr>
+<td width="55%" align="left" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=260&section=header&text=Keith%20Ng&fontSize=46&fontColor=ffffff&fontAlignY=52" width="100%"/>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/lUax-CJ3QVoAAAAC/anime-aestethic.gif" width="300" alt="Keith Ng"/>
+
+</td>
+</tr>
+</table>
 
 <h3 align="center">Senior Agentic AI Engineer &nbsp;|&nbsp; Cloud Architect &nbsp;|&nbsp; IaC &amp; Platform Engineering</h3>
 
@@ -9,21 +20,22 @@
 <div align="center">
 
 <a href="https://kgn-modern-portfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;85%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;85%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kgsng096&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<a href="https://github.com/kgsng096?tab=followers"><img src="https://img.shields.io/github/followers/kgsng096?label=Followers&style=flat&color=0e75b6" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-red?style=flat" alt="focus" />
-<img src="https://img.shields.io/badge/Everything-as%20Code-5835CC?style=flat" alt="iac" />
+<img src="https://komarev.com/ghpvc/?username=kgsng096&label=Profile%20Views&color=1B4965&style=flat" alt="profile views" />
+<a href="https://github.com/kgsng096?tab=followers"><img src="https://img.shields.io/github/followers/kgsng096?label=Followers&style=flat&color=1B4965" alt="followers" /></a>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-48CAE4?style=flat" alt="focus" />
+<img src="https://img.shields.io/badge/Everything-as%20Code-5BC0BE?style=flat" alt="iac" />
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=About%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+</tr></table>
 
 ```typescript
 const keith = {
@@ -40,7 +52,7 @@ const keith = {
 I build **scalable cloud-native systems**, modernize enterprise platforms, and design **AI-powered engineering solutions**. Across AWS, Azure, enterprise banking, fintech, large-scale SaaS, and **e-commerce supply chain** (warehousing, inventory management, demand forecasting & analytics), I deliver secure, high-performance solutions that combine strong software engineering principles with modern cloud, **Infrastructure as Code**, and agentic AI capabilities.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Agentic%20AI%20Engineering&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Agentic%20AI%20Engineering&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/>
 </div>
 
 > My core specialty. I design and operate **multi-agent systems** that autonomously plan, build, secure, and govern software.
@@ -51,9 +63,10 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🏛️ **Architecture Governance Agents** — automated enforcement of standards, patterns, and compliance
 - ⚙️ **LLM Optimization & AI-Assisted Development** — prompt/context engineering, evaluation, cost/latency tuning
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+</tr></table>
 
 - ☁️ Design and build cloud-native applications on **AWS** and **Azure**
 - 🧱 Provision everything with **Infrastructure as Code** — Terraform, AWS CDK, Pulumi & CloudFormation
@@ -73,9 +86,10 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🧪 Drive **automated testing & QA** — unit, integration & E2E
 - 🔐 Engineer **identity & access** — SSO, RBAC, 2FA & OAuth2
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+</tr></table>
 
 **🤖 AI &amp; Agentic Engineering**
 
@@ -162,9 +176,10 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+</tr></table>
 
 <table>
 <tr>
@@ -214,16 +229,17 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+</tr></table>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kgsng096&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kgsng096&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kgsng096&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9&icon_color=5BC0BE" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kgsng096&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9" />
 
-<img src="https://streak-stats.vercel.app/?user=kgsng096&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.vercel.app/?user=kgsng096&hide_border=true&background=0D1B2A&stroke=5BC0BE&ring=48CAE4&fire=48CAE4&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=48CAE4&sideNums=C9D1D9&dates=8A8A8A" alt="streak" />
 
 </div>
 
@@ -240,20 +256,20 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kgsng096&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kgsng096&hide_border=true&area=true&bg_color=0D1B2A&color=C9D1D9&line=48CAE4&point=5BC0BE&title_color=48CAE4" alt="activity graph" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kgsng096&theme=tokyonight" height="200em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kgsng096&theme=tokyonight" height="200em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kgsng096&theme=tokyonight&utcOffset=8" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kgsng096&theme=github_dark" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kgsng096&theme=github_dark" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kgsng096&theme=github_dark&utcOffset=8" height="200em" />
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Currently%20Exploring&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Currently%20Exploring&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/>
 </div>
 
 - 🤖 `Advanced Agentic AI Systems`
@@ -264,22 +280,23 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🔐 `Cloud Security Automation`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Ask%20Me%20About&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Ask%20Me%20About&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI%20%26%20Multi--Agent%20Systems-6e5494?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%20Architecture%20(AWS%20%26%20Azure)-0072C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-5835CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-36BCF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Event--Driven%20Systems%20%26%20DevSecOps-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/E--commerce%20%26%20Supply%20Chain-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enterprise%20Modernization-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI%20%26%20Multi--Agent%20Systems-0D1B2A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture%20(AWS%20%26%20Azure)-1B4965?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-2C6E7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-48CAE4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event--Driven%20Systems%20%26%20DevSecOps-1B263B?style=flat-square" />
+  <img src="https://img.shields.io/badge/E--commerce%20%26%20Supply%20Chain-0A9396?style=flat-square" />
+  <img src="https://img.shields.io/badge/Enterprise%20Modernization-5BC0BE?style=flat-square" />
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
-</div>
+<table width="100%"><tr>
+<td width="82%" valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:5BC0BE&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&fontAlignY=62" width="100%"/></td>
+<td width="18%" align="center" valign="middle"><img src="https://media.tenor.com/LuL2E7Bd9qMAAAAC/nezuko-anime.gif" width="100" alt=""/></td>
+</tr></table>
 
 <div align="center">
 
@@ -290,11 +307,17 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5835CC&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:48CAE4,100:5BC0BE&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer&text=Failure%20isn't%20the%20opposite%20of%20success%20%E2%80%94%20it's%20the%20path%20to%20it.&fontSize=20&fontColor=ffffff&fontAlignY=68&desc=" width="100%"/>
+<img src="https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif" width="600" alt="coding" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BC0BE,50:1B4965,100:0D1B2A&height=160&section=footer&text=Failure%20isn't%20the%20opposite%20of%20success%20%E2%80%94%20it's%20the%20path%20to%20it.&fontSize=20&fontColor=ffffff&fontAlignY=68&desc=" width="100%"/>
 
 </div>
 
