@@ -1,9 +1,9 @@
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Keith%20Ng&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Agentic%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20%26%20Platform%20Engineering&descAlignY=60&descSize=17" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keith%20Ng&fontSize=52&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
+
+<h3 align="center">Senior Agentic AI Engineer &nbsp;|&nbsp; Cloud Architect &nbsp;|&nbsp; IaC &amp; Platform Engineering</h3>
 
 <!-- Centered intro: animated headline + badges -->
 <div align="center">
