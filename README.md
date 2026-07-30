@@ -29,7 +29,7 @@
 const keith = {
   role: "Senior Agentic AI Engineer",
   location: "Philippines / Remote",
-  domains: ["Enterprise Banking", "Fintech", "Large-Scale SaaS"],
+  domains: ["Enterprise Banking", "Lending & Loans", "Fintech", "Large-Scale SaaS", "E-commerce & Supply Chain"],
   currentFocus: "Multi-agent systems that ship production software",
   infraStyle: "Everything-as-Code — Terraform · AWS CDK · Pulumi",
   philosophy:
@@ -37,7 +37,7 @@ const keith = {
 };
 ```
 
-I build **scalable cloud-native systems**, modernize enterprise platforms, and design **AI-powered engineering solutions**. Across AWS, Azure, enterprise banking, fintech, and large-scale SaaS, I deliver secure, high-performance solutions that combine strong software engineering principles with modern cloud, **Infrastructure as Code**, and agentic AI capabilities.
+I build **scalable cloud-native systems**, modernize enterprise platforms, and design **AI-powered engineering solutions**. Across AWS, Azure, enterprise banking, fintech, large-scale SaaS, and **e-commerce supply chain** (warehousing, inventory management, demand forecasting & analytics), I deliver secure, high-performance solutions that combine strong software engineering principles with modern cloud, **Infrastructure as Code**, and agentic AI capabilities.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Agentic%20AI%20Engineering&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
@@ -62,6 +62,16 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🔒 Implement **DevSecOps** automation and security-first delivery pipelines
 - ⚡ Modernize legacy enterprise applications using modern technologies
 - 📊 Design highly available **distributed systems** and data platforms
+- 📦 Build **e-commerce & supply chain** solutions — warehousing, inventory management, demand forecasting & analytics
+- 🏦 Deliver **lending & loans** platforms with secure origination and servicing workflows
+- 📱 Build cross-platform **mobile apps** and responsive **web applications**
+- 🔄 Build **ETL / data pipelines** and **BI dashboards** for analytics & reporting
+- 🧩 Design **custom business process automation** — workflow, approval & rules engines
+- 🔌 Integrate **APIs & third-party connectors** — payment gateways, KYC & credit bureaus
+- 🔔 Build **real-time notifications & messaging** — webhooks, WebSockets & push
+- 📈 Implement **observability & monitoring** — logging, tracing & alerting
+- 🧪 Drive **automated testing & QA** — unit, integration & E2E
+- 🔐 Engineer **identity & access** — SSO, RBAC, 2FA & OAuth2
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
@@ -71,11 +81,15 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Architecture-000000?style=for-the-badge&logo=probot&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-6e5494?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Optimization-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20DBs-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **🧱 Infrastructure as Code &amp; Cloud**
 
@@ -86,8 +100,13 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **⚙️ Backend**
@@ -105,11 +124,13 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 **🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 **🔒 DevSecOps**
@@ -120,13 +141,26 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+**📊 Data &amp; Analytics**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
@@ -239,6 +273,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
   <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-5835CC?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Development-36BCF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Event--Driven%20Systems%20%26%20DevSecOps-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/E--commerce%20%26%20Supply%20Chain-FF9900?style=flat-square" />
   <img src="https://img.shields.io/badge/Enterprise%20Modernization-2ea44f?style=flat-square" />
 </p>
 
