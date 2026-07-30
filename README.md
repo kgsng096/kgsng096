@@ -1,38 +1,28 @@
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Keith%20Ng&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Agentic%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20%26%20Platform%20Engineering&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Keith%20Ng&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Agentic%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20%26%20Platform%20Engineering&descAlignY=60&descSize=17" width="100%"/>
 
 </div>
 
-<!-- Intro row: YOU (the hero) beside the animated headline -->
-<table>
-<tr>
-<td width="62%" valign="middle">
+<!-- Centered intro: animated headline + badges -->
+<div align="center">
 
 <a href="https://kgn-modern-portfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=36BCF7&width=600&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;85%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;85%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=kgsng096&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 <a href="https://github.com/kgsng096?tab=followers"><img src="https://img.shields.io/github/followers/kgsng096?label=Followers&style=flat&color=0e75b6" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Focus-Agentic%20AI-red?style=flat" alt="focus" />
 <img src="https://img.shields.io/badge/Everything-as%20Code-5835CC?style=flat" alt="iac" />
 
-</td>
-<td width="38%" valign="middle" align="center">
-
-<!-- 🦸 THE HERO: drop your anime-style character at assets/hero.png -->
-<img src="assets/hero.png" alt="Keith — the hero" width="240" onerror="this.style.display='none'"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=About%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=About%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 ```typescript
@@ -50,7 +40,7 @@ const keith = {
 I build **scalable cloud-native systems**, modernize enterprise platforms, and design **AI-powered engineering solutions**. Across AWS, Azure, enterprise banking, fintech, and large-scale SaaS, I deliver secure, high-performance solutions that combine strong software engineering principles with modern cloud, **Infrastructure as Code**, and agentic AI capabilities.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Agentic%20AI%20Engineering&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Agentic%20AI%20Engineering&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 > My core specialty. I design and operate **multi-agent systems** that autonomously plan, build, secure, and govern software.
@@ -62,7 +52,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - ⚙️ **LLM Optimization & AI-Assisted Development** — prompt/context engineering, evaluation, cost/latency tuning
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=What%20I%20Do&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 - ☁️ Design and build cloud-native applications on **AWS** and **Azure**
@@ -74,7 +64,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 📊 Design highly available **distributed systems** and data platforms
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Tech%20Stack&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 **🤖 AI &amp; Agentic Engineering**
@@ -139,7 +129,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Professional%20Highlights&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 <table>
@@ -191,7 +181,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -229,7 +219,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Currently%20Exploring&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Currently%20Exploring&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 - 🤖 `Advanced Agentic AI Systems`
@@ -240,7 +230,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - 🔐 `Cloud Security Automation`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Ask%20Me%20About&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Ask%20Me%20About&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 <p align="center">
@@ -253,7 +243,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=36BCF7&fontAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -269,7 +259,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer&text=Failure%20isn't%20the%20opposite%20of%20success%20%E2%80%94%20it's%20the%20path%20to%20it.&fontSize=20&fontColor=ffffff&fontAlignY=68&desc=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer&text=Failure%20isn't%20the%20opposite%20of%20success%20%E2%80%94%20it's%20the%20path%20to%20it.&fontSize=20&fontColor=ffffff&fontAlignY=68&desc=" width="100%"/>
 
 </div>
 
