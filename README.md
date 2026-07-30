@@ -16,8 +16,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kgsng096&label=Profile%20Views&color=1B4965&style=flat" alt="profile views" />
-<a href="https://github.com/kgsng096?tab=followers"><img src="https://img.shields.io/github/followers/kgsng096?label=Followers&style=flat&color=1B4965" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=kg-ng&label=Profile%20Views&color=1B4965&style=flat" alt="profile views" />
+<a href="https://github.com/kg-ng?tab=followers"><img src="https://img.shields.io/github/followers/kg-ng?label=Followers&style=flat&color=1B4965" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Focus-Agentic%20AI-48CAE4?style=flat" alt="focus" />
 <img src="https://img.shields.io/badge/Everything-as%20Code-5BC0BE?style=flat" alt="iac" />
 
@@ -232,10 +232,10 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kgsng096&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9&icon_color=5BC0BE" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kgsng096&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kg-ng&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9&icon_color=5BC0BE" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kg-ng&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=48CAE4&text_color=C9D1D9" />
 
-<img src="https://streak-stats.vercel.app/?user=kgsng096&hide_border=true&background=0D1B2A&stroke=5BC0BE&ring=48CAE4&fire=48CAE4&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=48CAE4&sideNums=C9D1D9&dates=8A8A8A" alt="streak" />
+<img src="https://streak-stats.vercel.app/?user=kg-ng&hide_border=true&background=0D1B2A&stroke=5BC0BE&ring=48CAE4&fire=48CAE4&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=48CAE4&sideNums=C9D1D9&dates=8A8A8A" alt="streak" />
 
 </div>
 
@@ -243,24 +243,24 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kgsng096/kgsng096/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kgsng096/kgsng096/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/kgsng096/kgsng096/output/github-contribution-grid-snake.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kg-ng/kg-ng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kg-ng/kg-ng/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/kg-ng/kg-ng/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kgsng096&hide_border=true&area=true&bg_color=0D1B2A&color=C9D1D9&line=48CAE4&point=5BC0BE&title_color=48CAE4" alt="activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kg-ng&hide_border=true&area=true&bg_color=0D1B2A&color=C9D1D9&line=48CAE4&point=5BC0BE&title_color=48CAE4" alt="activity graph" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kgsng096&theme=github_dark" height="200em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kgsng096&theme=github_dark" height="200em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kgsng096&theme=github_dark&utcOffset=8" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kg-ng&theme=github_dark" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kg-ng&theme=github_dark" height="200em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kg-ng&theme=github_dark&utcOffset=8" height="200em" />
 
 </div>
 
@@ -300,7 +300,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-geoffrey-ng-698b3820a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://kgn-modern-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithng.096@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kgsng096)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kg-ng)
 
 </div>
 
